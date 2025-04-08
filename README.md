@@ -1,4 +1,4 @@
-# 📝 Reflexión Personal Profundizada
+# 📝 Reflexión Personal 
 
 ## ✍️ Parte 1: Reflexión escrita  
 
