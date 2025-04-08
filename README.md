@@ -2,7 +2,7 @@
 
 ## ✍️ Parte 1: Reflexión escrita  
 
-### 🧠 Límites mentales actuales (Análisis extendido)  
+### 🧠 Límites mentales actuales  
 El **miedo al fracaso** se manifiesta en mi vida como una voz constante que pregunta "¿Y si no lo logro?". Este límite tiene raíces en experiencias pasadas donde el error fue percibido como algo catastrófico. La **autocrítica excesiva**, por otro lado, opera como un filtro distorsionado que magnifica mis errores y minimiza mis logros.  
 
 Estos patrones:  
@@ -10,7 +10,7 @@ Estos patrones:
 - Crean un ciclo de procrastinación  
 - Generan ansiedad anticipatoria  
 
-### ⚡ Impacto en mi vida (Consecuencias detalladas)  
+### ⚡ Impacto en mi vida 
 En mi **toma de decisiones**:  
 1. **Parálisis por análisis**: Dedico demasiado tiempo a evaluar opciones  
 2. **Evitación de riesgos**: Prefiero lo seguro aunque sea menos gratificante  
@@ -22,7 +22,7 @@ En mi **productividad**:
   - Perder tiempo en detalles irrelevantes  
   - Posponer entregas "hasta estar perfecto"  
 
-### 💪 Fortalezas heredadas (Origen y aplicación)  
+### 💪 Fortalezas heredadas  
 
 1. **Resiliencia** 🏋️‍♂️  
    - *Origen familiar*: Observé cómo mis padres superaron crisis económicas  
@@ -36,7 +36,7 @@ En mi **productividad**:
    - *Origen familiar*: Fui incentivado a buscar soluciones no convencionales  
    - *Cómo la uso*: Encontrando enfoques originales para problemas complejos  
 
-### 🛠 Debilidades por trabajar (Estrategias de mejora)  
+### 🛠 Debilidades por trabajar  
 
 **Impulsividad** ⚡  
 - *Manifestaciones*:  
@@ -56,11 +56,11 @@ En mi **productividad**:
 
 ---
 
-# 🔍 Análisis Profundo de mi Compañero  
+# 🔍 Análisis Profundo de mi Compañero  Cardenas Garcia Diego Alezandro
 
 ## 💬 Parte 2: Mi análisis de la otra persona  
 
-### 🌟 Fortalezas heredadas (Contexto familiar)  
+### 🌟 Fortalezas heredadas de su familia
 
 1. **Confianza inquebrantable** 🤝  
    - *Base familiar*: Su familia mantuvo cohesión durante una emigración difícil  
@@ -80,7 +80,7 @@ En mi **productividad**:
      - Entregas siempre puntuales  
      - Va más allá de lo requerido  
 
-### 📉 Debilidades heredadas (Cómo superarlas)  
+### 📉 Debilidades heredadas de su familia
 
 **Sobreexigencia** 🎯  
 - *Dinámica familiar*:  
